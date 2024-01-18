@@ -25,4 +25,3 @@ O Equinox Ecobags é um agregador de links para usar como cartão de visitas onl
 Feito com ♥ by Kaique
 =======
 
->>>>>>> 9db804d21723f3862760328960d78ca68d9b57ba
