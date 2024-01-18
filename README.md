@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 align="center"> Equinox Ecobags </h1>
 
 
